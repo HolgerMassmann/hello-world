@@ -1,3 +1,3 @@
 # hello-world
-Iconic first reository
+Iconic first repository
 Interesting
